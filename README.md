@@ -8,6 +8,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Java , OpenCV , JUnit  
 - 🌱 I’m currently learning Java Spring Framework , Selenium , TestNG
 -->
+<br>
+- 🔭 I’m currently working on Java , OpenCV , JUnit  
+- 🌱 I’m currently learning Java Spring Framework , Selenium , TestNG
+<br>
 ## Find me around the web 🌎💬:
 
 <br/>
@@ -18,4 +22,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Saransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarrocks1&show_icons=true&theme=tokyonight&line_height=36&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
+[![Saransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarrocks1&show_icons=true&theme=gruvbox&line_height=36&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
