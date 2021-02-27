@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <br/>
 <a href="https://www.linkedin.com/in/saransh-ambarte/">
-  <img align="left" alt="Saransh | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img background-color: align="left" alt="Saransh | Linkedin" width="28px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" />
 </a>
 <br>
 <br>
