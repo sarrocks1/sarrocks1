@@ -15,4 +15,5 @@ Here are some ideas to get you started:
   <img align="left" alt="Saransh | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br/>
+
 [![Saransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarrocks1&show_icons=true&theme=tokyonight&line_height=36&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
