@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java , OpenCV , JUnit  
-- 🌱 I’m currently learning Java Spring Framework , Selenium , TestNG
+- 🔭 I’m currently working on Java , Groovy , Kubernetes , Jenkins
+- 🌱 I’m currently learning Golang , ArgoCD
 -->
 <br>
- 🔭 I’m currently working on Java , OpenCV , JUnit
+ 🔭 I’m currently working on Java , Groovy , Kubernetes , Jenkins
  <br>  
- 🌱 I’m currently learning Java Spring Framework , Selenium , TestNG
+ 🌱 I’m currently learning Golang , ArgoCD
 <br>
  #Find me around the web 🌎💬:
 
